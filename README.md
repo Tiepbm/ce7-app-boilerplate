@@ -1,0 +1,1 @@
+# ce7-app-boilerplate
