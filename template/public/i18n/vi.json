@@ -1,0 +1,18 @@
+{
+  "button.retry": "",
+  "errors.network": "",
+  "errors.networkSub": "",
+  "errors.opps": "",
+  "errors.403": "",
+  "errors.420": "",
+  "errors.500": "",
+  "errors.502": "",
+  "errors.phoneNumberEmpty": "",
+  "errors.emailEmpty": "",
+  "errors.emailInvalid": "",
+  "errors.passwordEmpty": "",
+  "errors.passwordNotSpace": "",
+  "errors.passwordShort": "",
+  "errors.passwordConfirmEmpty": "",
+  "errors.passwordConfirmInCorrect": ""
+}
