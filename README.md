@@ -23,6 +23,7 @@
 - I18n
 - Sentry
 - Axios
+- And so much more
 
 ## :arrow_forward: Usage
 
