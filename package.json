@@ -2,14 +2,13 @@
   "name": "ce7-app-boilerplate",
   "version": "1.0.0",
   "description": "React Native Template",
-  "repository": "git@github.com:Tiepbm/ce7-app-boilerplate.git",
   "files": [
     "template",
     "template.config.js"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tiepbm/ce7-app-boilerplate.git"
+    "url": "git+ssh:https://github.com/Tiepbm/ce7-app-boilerplate.git"
   },
   "keywords": [
     "react-native",
