@@ -1,7 +1,6 @@
 import React from 'react';
 import {View, Text, TouchableOpacity, ActivityIndicator} from 'react-native';
 import {useTranslation} from 'react-i18next';
-import FastImageCustomer from '../FastImageCustomer';
 import {styles} from './styles';
 import {LayoutStyle} from '../../theme';
 import lodash from 'lodash';
@@ -16,7 +15,7 @@ function NoData(props: NoDataProps) {
   const renderErrorNetwork = () => {
     return (
       <View style={LayoutStyle.center}>
-        <FastImageCustomer name={'network'} style={{width: 72, height: 56}} />
+        {/*<FastImageCustomer name={'network'} style={{width: 72, height: 56}} />*/}
         <Text style={styles.titleNetwork}>{t('errors.network')}</Text>
         <Text style={styles.titleNetwork2}>{t('errors.networkSub')}</Text>
         <TouchableOpacity
@@ -40,7 +39,7 @@ function NoData(props: NoDataProps) {
     return (
       <View style={LayoutStyle.center}>
         <Text style={styles.titleError}>{t('errors.opps')}</Text>
-        <FastImageCustomer name={'empty'} style={{width: 245, height: 164}} />
+        {/*<FastImageCustomer name={'empty'} style={{width: 245, height: 164}} />*/}
         <Text style={styles.titleError2}>{t(`errors.${statusCode}`)}</Text>
       </View>
     );
