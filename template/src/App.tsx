@@ -6,12 +6,12 @@ import {LocaleConfig} from 'react-native-calendars';
 import moment from 'moment';
 import {GestureHandlerRootView} from 'react-native-gesture-handler';
 import ApplicationNavigator from 'navigators/ApplicationNavigator';
-Sentry.init({
-  dsn: 'https://30bee15efef14adb98a90e2914142dda@o928949.ingest.sentry.io/6359717',
-  // Set tracesSampleRate to 1.0 to capture 100% of transactions for performance monitoring.
-  // We recommend adjusting this value in production.
-  tracesSampleRate: 1.0,
-});
+// Sentry.init({
+//   dsn: 'https://30bee15efef14adb98a90e2914142dda@o928949.ingest.sentry.io/6359717',
+//   // Set tracesSampleRate to 1.0 to capture 100% of transactions for performance monitoring.
+//   // We recommend adjusting this value in production.
+//   tracesSampleRate: 1.0,
+// });
 moment.locale('vi', {
   months: [
     'Tháng 1',
