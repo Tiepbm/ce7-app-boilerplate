@@ -28,5 +28,5 @@
 ## :arrow_forward: Usage
 
 ```sh
-npx react-native init MyApp --template git@github.com:Tiepbm/ce7-app-boilerplate.git
+npx @react-native-community/cli init Rehatex --template git@github.com:Tiepbm/ce7-app-boilerplate.git
 ```
