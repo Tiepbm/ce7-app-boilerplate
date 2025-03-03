@@ -1,4 +1,4 @@
-package com.pvire
+package com.ce7.example
 
 import android.app.Application
 import com.facebook.react.PackageList

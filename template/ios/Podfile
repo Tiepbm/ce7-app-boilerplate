@@ -17,7 +17,7 @@ if linkage != nil
 end
 
 
-target 'PVIRe' do
+target 'CE7Example' do
   config = use_native_modules!
 
   use_react_native!(
@@ -31,7 +31,7 @@ target 'PVIRe' do
 
   pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
 
-  target 'PVIReTests' do
+  target 'CE7ExampleTests' do
     inherit! :complete
     # Pods for testing
   end

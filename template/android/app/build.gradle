@@ -79,10 +79,10 @@ android {
     ndkVersion rootProject.ext.ndkVersion
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
-    namespace "com.pvire"
+    namespace "com.ce7.example"
 
     defaultConfig {
-        applicationId "com.pvire"
+        applicationId "com.ce7.example"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

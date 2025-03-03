@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "PVIRe.app"
-               BlueprintName = "PVIRe"
-               ReferencedContainer = "container:PVIRe.xcodeproj">
+               BuildableName = "CE7Example.app"
+               BlueprintName = "CE7Example"
+               ReferencedContainer = "container:CE7Example.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "PVIReTests.xctest"
-               BlueprintName = "PVIReTests"
-               ReferencedContainer = "container:PVIRe.xcodeproj">
+               BuildableName = "CE7ExampleTests.xctest"
+               BlueprintName = "CE7ExampleTests"
+               ReferencedContainer = "container:CE7Example.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "PVIRe.app"
-            BlueprintName = "PVIRe"
-            ReferencedContainer = "container:PVIRe.xcodeproj">
+            BuildableName = "CE7Example.app"
+            BlueprintName = "CE7Example"
+            ReferencedContainer = "container:CE7Example.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "PVIRe.app"
-            BlueprintName = "PVIRe"
-            ReferencedContainer = "container:PVIRe.xcodeproj">
+            BuildableName = "CE7Example.app"
+            BlueprintName = "CE7Example"
+            ReferencedContainer = "container:CE7Example.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
